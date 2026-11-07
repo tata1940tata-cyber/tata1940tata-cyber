@@ -194,7 +194,7 @@
 ## 📬 Контакты
 
 <!-- ЗАМЕНИ: замени заглушки ниже на свои реальные контакты -->
-- 💬 **Telegram:** [@your_telegram](https://t.me/your_telegram) <!-- ЗАМЕНИ -->
+- 💬 **Макс (MAX):** [написать мне](https://max.ru/u/f9LHodD0cOI-YAieekXFGEXHwicA6e6uyAiKxH5Q0D-x3jLimm7E7nfuQDc)
 - ✉️ **Email:** ta-ta82@mail.ru
 - 🌐 **Сайт / портфолио:** [your-site.com](https://your-site.com) <!-- ЗАМЕНИ -->
 - 🐙 **GitHub:** [@tata1940tata-cyber](https://github.com/tata1940tata-cyber)
