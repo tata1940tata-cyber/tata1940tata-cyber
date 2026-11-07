@@ -3,7 +3,7 @@
   │  README профиля GitHub · tata1940tata-cyber                         │
   ├──────────────────────────────────────────────────────────────┤
   │  КАК ИСПОЛЬЗОВАТЬ:                                            │
-  │  1. Создай репозиторий с именем tata1940tata/tata1940tata    │
+  │  1. Создай репозиторий с именем tata1940tata-cyber/tata1940tata-cyber    │
   │     (имя репозитория = твой логин GitHub).                    │
   │  2. Загрузи этот файл в корень репозитория как README.md.     │
   │  3. Замени все пометки «ЗАМЕНИ» на свои реальные контакты.    │
@@ -12,14 +12,14 @@
 <a name="top"></a>
 
 <p align="center">
-  <a href="https://github.com/tata1940tata">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&height=62&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C%20%D1%8F%20tata1940tata%20%F0%9F%91%8B;%D0%92%D0%B0%D0%B9%D0%B1-%D0%BA%D0%BE%D0%B4%D0%B5%D1%80%20%D0%B8%20%D0%B1%D0%B8%D0%BB%D0%B4%D0%B5%D1%80%20%F0%9F%9A%80;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E%20%D1%81%D0%B0%D0%B9%D1%82%D1%8B%2C%20CRM-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%B8%20%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D1%8B;%D0%92%D0%B0%D0%B9%D0%B1-%D0%BA%D0%BE%D0%B4%D0%B8%D0%BD%D0%B3%3A%20%D0%BE%D1%82%20%D0%B8%D0%B4%D0%B5%D0%B8%20%D0%B4%D0%BE%20%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B0%20%D0%B7%D0%B0%20%D0%B4%D0%BD%D0%B8;%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2%20%D0%B8%20%D0%BA%D0%BE%D0%BB%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%86%D0%B8%D0%B9%20%F0%9F%92%BC" alt="Привет, я tata1940tata — вайб-кодер и билдер: от сайтов до CRM-систем" />
+  <a href="https://github.com/tata1940tata-cyber">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&height=62&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%D0%AF%20%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0%20%F0%9F%91%8B;%D0%92%D0%B0%D0%B9%D0%B1-%D0%BA%D0%BE%D0%B4%D0%B5%D1%80%20%D0%B8%20%D0%B1%D0%B8%D0%BB%D0%B4%D0%B5%D1%80%20%F0%9F%9A%80;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E%20%D1%81%D0%B0%D0%B9%D1%82%D1%8B%2C%20CRM-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20%D0%B8%20%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D1%8B;%D0%92%D0%B0%D0%B9%D0%B1-%D0%BA%D0%BE%D0%B4%D0%B8%D0%BD%D0%B3%3A%20%D0%BE%D1%82%20%D0%B8%D0%B4%D0%B5%D0%B8%20%D0%B4%D0%BE%20%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B0%20%D0%B7%D0%B0%20%D0%B4%D0%BD%D0%B8;%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2%20%D0%B8%20%D0%BA%D0%BE%D0%BB%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%86%D0%B8%D0%B9%20%F0%9F%92%BC" alt="Привет! Я Татьяна — вайб-кодер и билдер: от сайтов до CRM-систем" />
   </a>
 </p>
 
 <p align="center">
-  <b>Вайб-кодер · билдер · фрилансер</b><br />
-  Превращаю идеи в работающие продукты — <b>от сайтов до CRM-систем</b> 🚀
+  <b>Татьяна Василенко</b> · <a href="https://github.com/tata1940tata-cyber">@tata1940tata-cyber</a><br />
+  Вайб-кодер · билдер · фрилансер — превращаю идеи в работающие продукты, <b>от сайтов до CRM-систем</b> 🚀
 </p>
 
 <p align="center">
@@ -136,9 +136,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tata1940tata&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tata1940tata&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tata1940tata&theme=default" alt="Сводка профиля GitHub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tata1940tata-cyber&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tata1940tata-cyber&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tata1940tata-cyber&theme=default" alt="Сводка профиля GitHub" />
   </picture>
 </p>
 
@@ -146,32 +146,32 @@
   <tr>
     <td align="center" width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tata1940tata&theme=github_dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tata1940tata&theme=default" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tata1940tata&theme=default" alt="Статистика GitHub" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tata1940tata-cyber&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tata1940tata-cyber&theme=default" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tata1940tata-cyber&theme=default" alt="Статистика GitHub" />
       </picture>
     </td>
     <td align="center" width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=tata1940tata&theme=github-dark-blue&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=tata1940tata&theme=default&hide_border=true" />
-        <img src="https://streak-stats.demolab.com?user=tata1940tata&theme=default&hide_border=true" alt="Активность по дням" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tata1940tata-cyber&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tata1940tata-cyber&theme=default" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tata1940tata-cyber&theme=default" alt="Время активности по коммитам" />
       </picture>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tata1940tata&theme=github_dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tata1940tata&theme=default" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tata1940tata&theme=default" alt="Языки в репозиториях" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tata1940tata-cyber&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tata1940tata-cyber&theme=default" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tata1940tata-cyber&theme=default" alt="Языки в репозиториях" />
       </picture>
     </td>
     <td align="center" width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tata1940tata&theme=github_dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tata1940tata&theme=default" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tata1940tata&theme=default" alt="Языки по коммитам" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tata1940tata-cyber&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tata1940tata-cyber&theme=default" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tata1940tata-cyber&theme=default" alt="Языки по коммитам" />
       </picture>
     </td>
   </tr>
@@ -194,13 +194,13 @@
 ## 📬 Контакты
 
 <!-- ЗАМЕНИ: замени заглушки ниже на свои реальные контакты -->
-- 💬 **МАХ** [https://max.ru/u/f9LHodD0cOI-YAieekXFGEXHwicA6e6uyAiKxH5Q0D-x3jLimm7E7nfuQDc <!-- ЗАМЕНИ -->
-- ✉️ **Email:** [ta-ta82@mail.ru <!-- ЗАМЕНИ -->
+- 💬 **Telegram:** [@your_telegram](https://t.me/your_telegram) <!-- ЗАМЕНИ -->
+- ✉️ **Email:** ta-ta82@mail.ru
 - 🌐 **Сайт / портфолио:** [your-site.com](https://your-site.com) <!-- ЗАМЕНИ -->
-- 🐙 **GitHub:** [@tata1940tata](https://github.com/tata1940tata)
+- 🐙 **GitHub:** [@tata1940tata-cyber](https://github.com/tata1940tata-cyber)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tata1940tata&style=for-the-badge" alt="Счётчик просмотров профиля" />
+  <img src="https://komarev.com/ghpvc/?username=tata1940tata-cyber&style=for-the-badge" alt="Счётчик просмотров профиля" />
 </p>
 
 <br />
